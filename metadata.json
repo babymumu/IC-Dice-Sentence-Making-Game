@@ -1,0 +1,6 @@
+{
+  "name": "Sentence Dice 句子骰子",
+  "description": "Interactive Chinese sentence-building game with 3D tactile dice for middle school students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
